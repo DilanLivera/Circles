@@ -5,6 +5,4 @@ A patatap clone. App creates circles and play sound on key press. Play with the 
 
 ![alt text](https://github.com/DilanLivera/circles/blob/master/img/circles2.jpg)
 
-* Libraries
-  - [paper-full.js](http://paperjs.org/)
-  - [howler.js](https://howlerjs.com/)
+This app was built using [paper-full.js](http://paperjs.org/) and [howler.js](https://howlerjs.com/) javascript libraries.
